@@ -1,6 +1,9 @@
 # Pocket Operator with MIDILin
 
-This project allows a Pocket Operator to be controlled through a DIY MIDI Ribbon Controller. The demo uses a PO-28.
+
+This project was created for the teenage engineering #po10diy contest and won 3rd place! See https://teenage.engineering/products/po/anniversary
+
+It allows a Pocket Operator to be controlled through a DIY MIDI Ribbon Controller. The demo uses a PO-28.
 
 [![DEMO](https://img.youtube.com/vi/qcyDEXGFCCk/0.jpg)](https://www.youtube.com/watch?v=qcyDEXGFCCk)
 
